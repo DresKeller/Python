@@ -1,0 +1,4 @@
+git config --global core.editor "/private/var/folders/xc/tt3lm6v523x9sm7mw46k54pm0000gn/T/AppTranslocation/823E5DB5-D677-4DCC-AF86-2727C0DB1A84/d/Atom.app/Contents/Resources/app/atom.sh -n -w"
+
+# https://docs.github.com/en/github/getting-started-with-github/associating-text-editors-with-git
+git config --global core.editor "atom --wait"
