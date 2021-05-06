@@ -1,0 +1,9 @@
+cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/
+
+cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/VersionControlled
+ls
+python3 20210412_Assignement_2_3.py
+cd /Volumes
+cd 'Macintosh HD/Users/dreskeller'
+
+/Users/dreskeller/Library/Mobile\ Documents/com~apple~CloudDocs/VersionControlled/.ssh
